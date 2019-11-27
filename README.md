@@ -1,2 +1,2 @@
-* ``` $ make ``` translates a *target.bib* file provided in the directory to *target.ttl*
-* Base uri defined in *Makefile* is http://example.org/bib/
+* ``` $ make ``` converts a provided bib file into a turtle file
+* Base uri and target bib file are defined in *Makefile*

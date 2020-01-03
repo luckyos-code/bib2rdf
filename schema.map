@@ -305,3 +305,10 @@ defaultLabelPattern=<title>
 # property used to add the absolute path as string
 # to the source file resource
 #fileAbsolutePath=bibtex:absolutePath
+
+bdsk-url-1=rdfs:seeAlso
+bdsk-url-2=rdfs:seeAlso
+bdsk-url-3=rdfs:seeAlso
+ee=rdfs:seeAlso
+
+subtitle=dct:isPartOf

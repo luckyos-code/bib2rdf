@@ -1,2 +1,1 @@
-* ``` $ make ``` converts a provided *bib* file into a *turtle* file
-* Base uri and target bib file are defined in **Makefile**
+* ``` $ make bib=<path> ``` converts a provided *bib* file into a *rdf* file (default: ``` bib=resources/aksw.bib ```
